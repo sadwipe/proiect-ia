@@ -13,7 +13,6 @@ data_matrix = df[numeric_columns]
 # pd.set_option("display.max_columns", None)
 
 # 1) Creare matrice din datele alese:
-# print("Forma matricei:", data_matrix.shape)
 # print(data_matrix)
 
 # 2.1) Average:
